@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+    
+}
+.two_one{
+    background-color: aqua;
+    display: inline-block;
+    width: 135.08px;
+    height: 50px;
+}
+.two_two{
+    background-color: blueviolet;
+    display: inline-block;
+    height: 50px;
+}
+.gg{
+    position: relative;
+    top: 130px;
+}
+.btn {
+    background: #292b2b;
+    background-image: -webkit-linear-gradient(top, #292b2b, #1b2124);
+    background-image: -moz-linear-gradient(top, #292b2b, #1b2124);
+    background-image: -ms-linear-gradient(top, #292b2b, #1b2124);
+    background-image: -o-linear-gradient(top, #292b2b, #1b2124);
+    background-image: linear-gradient(to bottom, #292b2b, #1b2124);
+    -webkit-border-radius: 21;
+    -moz-border-radius: 21;
+    border-radius: 21px;
+    font-family: Arial;
+    color: #46a5b0;
+    font-size: 20px;
+    padding: 8px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #73818a;
+    background-image: -webkit-linear-gradient(top, #73818a, #524f57);
+    background-image: -moz-linear-gradient(top, #73818a, #524f57);
+    background-image: -ms-linear-gradient(top, #73818a, #524f57);
+    background-image: -o-linear-gradient(top, #73818a, #524f57);
+    background-image: linear-gradient(to bottom, #73818a, #524f57);
+    text-decoration: none;
+  }
